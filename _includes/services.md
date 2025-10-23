@@ -14,12 +14,12 @@
   <li><a href="https://www.stormchecker.org/"><autocolor>Contributer to the Storm model checker</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+<h4 style="margin:0 10px 0;">Teaching</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><<autocolor>Software Verification 2026-</autocolor></li>
-  <li><<autocolor>Processors 2025</autocolor></li>
-  <li><<autocolor>Type Theory and Coq 2025</autocolor></li>
+  <li><autocolor>Software Verification 2026-</autocolor></li>
+  <li><autocolor>Processors 2025</autocolor></li>
+  <li><autocolor>Type Theory and Coq 2025</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Thesis Supervision</h4>
