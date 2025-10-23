@@ -8,14 +8,22 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Thesis supervision</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://cs.ru.nl/bachelors-theses/2025/Jord_Cluitmans___1052807___Learning_Predictive_Monitors_for_Autonomous_Vehicles_Using_Binary_Decision_Trees_-_A_Case_Study.pdf"><autocolor>Jord Cluitmans, Learning Predictive Monitors for Autonomous Vehicles Using Binary Decision Trees (Bsc)</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Resarch software projects</h4>
+<h4 style="margin:0 10px 0;">Resarch Software Projects</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.stormchecker.org/"><autocolor>Contributer to the Storm model checker</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><<autocolor>Software Verification 2026-</autocolor></li>
+  <li><<autocolor>Processors 2025</autocolor></li>
+  <li><<autocolor>Type Theory and Coq 2025</autocolor></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Thesis Supervision</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://cs.ru.nl/bachelors-theses/2025/Jord_Cluitmans___1052807___Learning_Predictive_Monitors_for_Autonomous_Vehicles_Using_Binary_Decision_Trees_-_A_Case_Study.pdf"><autocolor>Jord Cluitmans, Learning Predictive Monitors for Autonomous Vehicles Using Binary Decision Trees (Bsc)</autocolor></a></li>
 </ul>
