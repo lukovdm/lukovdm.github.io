@@ -7,9 +7,10 @@ main:
     pdf: https://arxiv.org/abs/2504.05963
     code: https://github.com/lukovdm/monitor-conformence/tree/ATVA25-Artifact
     bibtex: https://dblp.org/rec/journals/corr/abs-2504-05963.bib?param=0
+    doi: https://doi.org/10.1007/978-3-032-08707-2_9
     image: ./assets/img/ATVA-feature.png
     slides: ./assets/slides/atva25.pdf
-    notes: Accepted
+    # notes: Accepted
 
   - title: Inductive Predicates via Least Fixpoints in Higher-Order Separation Logic
     authors: Robbert Krebbers, <strong>Luko van der Maas</strong>, Enrico Tassi
@@ -18,5 +19,6 @@ main:
     pdf: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.27
     code: https://github.com/lukovdm/MasterThesisIrisElpi/tree/ITP
     bibtex: https://dblp.org/rec/journals/corr/abs-2504-05963.bib?param=0
+    doi: https://doi.org/10.4230/LIPIcs.ITP.2025.27
     image: ./assets/img/ITP-feature.png
-    notes: Published
+    # notes: Published
