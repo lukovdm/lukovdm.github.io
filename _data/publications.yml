@@ -8,6 +8,7 @@ main:
     code: https://github.com/lukovdm/monitor-conformence/tree/ATVA25-Artifact
     bibtex: https://dblp.org/rec/journals/corr/abs-2504-05963.bib?param=0
     image: ./assets/img/ATVA-feature.png
+    slides: ./assest/slides/atva25.pdf
     notes: Accepted
 
   - title: Inductive Predicates via Least Fixpoints in Higher-Order Separation Logic
