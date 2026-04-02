@@ -1,5 +1,15 @@
 main:
 
+  - title: Learning Robust Markov Models for Safe Runtime Monitoring
+    authors: Antonina Skurka, <strong>Luko van der Maas</strong>, Sebastian Junges, Hazem Torfah
+    conference_short: AAMAS
+    conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2602.14987
+    code: https://github.com/monitoring-MDPs/premise/tree/interval
+    bibtext: https://dblp.org/rec/journals/corr/abs-2602-14987.bib?param=0
+    image: ./assets/img/AAMAS26-feature.png
+    # notes: Accepted
+
   - title: Learning Verified Monitors for Hidden Markov Models
     authors: <strong>Luko van der Maas</strong>, Sebastian Junges
     conference_short: ATVA
@@ -10,7 +20,7 @@ main:
     doi: https://doi.org/10.1007/978-3-032-08707-2_9
     image: ./assets/img/ATVA-feature.png
     slides: ./assets/slides/atva25.pdf
-    # notes: Accepted
+    # notes: Published
 
   - title: Inductive Predicates via Least Fixpoints in Higher-Order Separation Logic
     authors: Robbert Krebbers, <strong>Luko van der Maas</strong>, Enrico Tassi
