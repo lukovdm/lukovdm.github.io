@@ -1,14 +1,24 @@
 main:
 
+  - title: Fast Computation of Conditional Probabilities in MDPs and Markov Chain Families
+    authors: Milan Češka, Sebastian Junges, <strong>Luko van der Maas</strong>, Filip Macák, Tim Quatmann
+    conference_short: CAV
+    conference: International Conference on Computer Aided Verification <strong>(CAV)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2605.11897
+    bibtex: https://dblp.org/rec/journals/corr/abs-2605-11897.bib?param=0
+    image: ./assets/img/CAV26-feature.png
+    # notes: Accepted
+
   - title: Learning Robust Markov Models for Safe Runtime Monitoring
     authors: Antonina Skurka, <strong>Luko van der Maas</strong>, Sebastian Junges, Hazem Torfah
     conference_short: AAMAS
     conference: International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>, 2026.
     pdf: https://arxiv.org/abs/2602.14987
     code: https://github.com/monitoring-MDPs/premise/tree/interval
-    bibtext: https://dblp.org/rec/journals/corr/abs-2602-14987.bib?param=0
+    bibtex: ./assets/files/aamas26.bib
+    doi: https://doi.org/10.65109/JAKK2294
     image: ./assets/img/AAMAS26-feature.png
-    # notes: Accepted
+    # notes: Published
 
   - title: Learning Verified Monitors for Hidden Markov Models
     authors: <strong>Luko van der Maas</strong>, Sebastian Junges
